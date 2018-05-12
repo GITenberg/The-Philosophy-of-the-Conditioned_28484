@@ -1,0 +1,28 @@
+_repo: The-Philosophy-of-the-Conditioned_28484
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mansel, Henry Longueville
+    alias: Mansel, H. L. (Henry Longueville)
+    birthdate: 1820
+    deathdate: 1871
+    gutenberg_agent_id: '33354'
+    url: http://www.gutenberg.org/2009/agents/33354
+description: ''
+gutenberg_issued: '2009-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamilton, William, Sir, 1788-1856'
+- !lcsh 'Mill, John Stuart, 1806-1873. Examination of Sir William Hamilton''s philosophy'
+- !lcc 'B'
+title: The Philosophy of the Conditioned
+url: http://www.gutenberg.org/ebooks/28484
